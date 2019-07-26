@@ -19,4 +19,5 @@
 - [ph.henriq31@gmail.com](mailto:ph.henriq31@gmail.com)
 
 -----------
-![illustrator](https://user-images.githubusercontent.com/42096755/61919202-e7906d00-af2a-11e9-92d8-4b13d03465b0.png)
+![illustrator](https://user-images.githubusercontent.com/42096755/61919202-e7906d00-af2a-11e9-92d8-4b13d03465b0.png) ![github-sign](https://user-images.githubusercontent.com/42096755/61953569-1e976a80-af8d-11e9-8686-59cc046a57b9.png) ![ubuntu](https://user-images.githubusercontent.com/42096755/61953571-1fc89780-af8d-11e9-9050-e1cba5f5ce42.png)
+
