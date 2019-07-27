@@ -4,7 +4,7 @@
 - [x] Amante da Tecnologia
 - [x] Gerente de Lan House
 
-![foto](https://i.kym-cdn.com/entries/icons/original/000/003/344/Edward_Elric_Exploitable.jpg)
+[![foto](https://i.kym-cdn.com/entries/icons/original/000/003/344/Edward_Elric_Exploitable.jpg)](fb.com/paulo.henriq31)
 
 -----------
 
